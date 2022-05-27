@@ -12,4 +12,4 @@ Instalación:
 3) Ve a tu server.cfg o resources.cfg y añadelo a la lista para que se ejecute - "ensure rb_mostrarid"
 4) Enciende tu servidor y ya estaria listo!
 
---## Discord - rebuscado#133 ##--
+--## Discord - rebuscado#1337 ##--
